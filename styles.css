@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-family: 'Georgia';
+    background: rgb(130, 123, 92);
+    color: rgb(64, 46, 64);
+  }
+
+img {
+  width: 250px;
+}
